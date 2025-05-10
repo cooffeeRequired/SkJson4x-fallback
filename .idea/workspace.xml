@@ -4,7 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="144d9d89-71f9-4de3-aeec-c562ba98e064" name="Changes" comment="" />
+    <list default="true" id="144d9d89-71f9-4de3-aeec-c562ba98e064" name="Changes" comment="intials">
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/AllJsonInFolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/FilenameLoopExpression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/LinkFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/SaveCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/md5-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/checksums/sha1-checksums.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.12/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.12/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/SkJsonFallback.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/SkJsonFallback.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cz/coffee/fallbackapi/elements/ExprChangerArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cz/coffee/fallbackapi/elements/ExprChangerObject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cz/coffee/fallbackapi/elements/ExprChangerValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/cz/coffee/fallbackapi/modules/Fallback.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/cz/coffee/fallbackapi/modules/Fallback.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/libs/skjson-4.x.fallback" beforeDir="false" afterPath="$PROJECT_DIR$/build/libs/skjson-4.x.fallback" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/libraries/skjson.jar" beforeDir="false" afterPath="$PROJECT_DIR$/libraries/skjson.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/ExprChangerArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/ExprChangerObject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/elements/ExprChangerValue.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/modules/Fallback.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cz/coffee/fallbackapi/modules/Fallback.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,47 +78,52 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "cooffeeRequired"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;cooffeeRequired&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/cooffeeRequired/SkJson4x-fallback.git",
-    "accountId": "c085a95f-5508-46fc-8863-6414e860dd05"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/cooffeeRequired/SkJson4x-fallback.git&quot;,
+    &quot;accountId&quot;: &quot;c085a95f-5508-46fc-8863-6414e860dd05&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2wqsWdQWyTifRPEHMetQDD95KO7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.SkjsonFallback [clean build].executor": "Run",
-    "Gradle.SkjsonFallback [clear build].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/Coffee/Desktop/SkjsonFallback",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.SkjsonFallback [clean build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.SkjsonFallback [clear build].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Coffee/Desktop/SkjsonFallback&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Coffee\Desktop\SkJsonFallBackAdapter\libraries" />
@@ -184,10 +222,19 @@
       <workItem from="1746780473279" duration="754000" />
       <workItem from="1746781312143" duration="8252000" />
       <workItem from="1746808850887" duration="122000" />
+      <workItem from="1746808981943" duration="78000" />
+      <workItem from="1746809066876" duration="169000" />
+      <workItem from="1746857411828" duration="5000" />
+      <workItem from="1746903891018" duration="169000" />
+      <workItem from="1746904077503" duration="1551000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intials" />
+    <option name="LAST_COMMIT_MESSAGE" value="intials" />
   </component>
 </project>
